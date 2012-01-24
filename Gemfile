@@ -1,6 +1,6 @@
 source :rubygems
 
-gem "chef"
+gem "chef", :git => "https://github.com/opscode/chef.git"
 gem "knife-github-cookbooks"
 gem "spiceweasel"
 gem "knife-ec2"
