@@ -19,9 +19,11 @@ Install the gems
 
     $ bundle
 
-Initialize the Vagrant box (defaults to lucid32)
+Edit `Vagrantfile`
 
-    $ vagrant init
+Bring up the Vagrant box
+
+    $ vagrant up
     
 ## Usage
 
